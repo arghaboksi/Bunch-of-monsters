@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Bunch-of-monsters/static/css/main.9594edee.chunk.css",
+    "main.js": "/Bunch-of-monsters/static/js/main.ac85521b.chunk.js",
+    "main.js.map": "/Bunch-of-monsters/static/js/main.ac85521b.chunk.js.map",
+    "runtime-main.js": "/Bunch-of-monsters/static/js/runtime-main.97ed0257.js",
+    "runtime-main.js.map": "/Bunch-of-monsters/static/js/runtime-main.97ed0257.js.map",
+    "static/js/2.be4c3002.chunk.js": "/Bunch-of-monsters/static/js/2.be4c3002.chunk.js",
+    "static/js/2.be4c3002.chunk.js.map": "/Bunch-of-monsters/static/js/2.be4c3002.chunk.js.map",
+    "index.html": "/Bunch-of-monsters/index.html",
+    "precache-manifest.b97e667ecc67e4f2bc941921ca14d910.js": "/Bunch-of-monsters/precache-manifest.b97e667ecc67e4f2bc941921ca14d910.js",
+    "service-worker.js": "/Bunch-of-monsters/service-worker.js",
+    "static/css/main.9594edee.chunk.css.map": "/Bunch-of-monsters/static/css/main.9594edee.chunk.css.map",
+    "static/js/2.be4c3002.chunk.js.LICENSE.txt": "/Bunch-of-monsters/static/js/2.be4c3002.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97ed0257.js",
+    "static/js/2.be4c3002.chunk.js",
+    "static/css/main.9594edee.chunk.css",
+    "static/js/main.ac85521b.chunk.js"
+  ]
+}
