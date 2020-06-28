@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Bunch-of-monsters/precache-manifest.b97e667ecc67e4f2bc941921ca14d910.js"
+  "/Bunch-of-monsters/precache-manifest.52239719d616f5576e3336dbb13cbed9.js"
 );
 
 self.addEventListener('message', (event) => {
